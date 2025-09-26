@@ -1,4 +1,4 @@
-
+## Question 7
 ### Underfitting (max_depth = 1):
 The model is too simple (high bias). It performs poorly on both the training and test data because it fails to capture the underlying patterns.
 
